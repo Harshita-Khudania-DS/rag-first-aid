@@ -105,8 +105,8 @@ Delete `faiss_index` → Run `embed.py` → Run `rag.py`
 
 ## Author
 
-Harshita Khudania
-BSc Data Science and Statistics Student
+Harshita Khudania,
+BSc Data Science and Statistics Student,
 CHRIST (Deemed to be University)
 
 
